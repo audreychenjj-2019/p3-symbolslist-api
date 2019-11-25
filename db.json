@@ -1,124 +1,154 @@
 {
   "products": [
  {
-   "symbol": "AAPL",
-   "name": "Apple Inc."
- },
- {
-   "symbol": "AXP",
-   "name": "American Express Company"
- },
- {
-   "symbol": "BA",
-   "name": "The Boeing Company"
- },
- {
-   "symbol": "CAT",
-   "name": "Caterpillar Inc."
+   "symbol": "MRK",
+   "name": "Merck & Co., Inc.",
+   "index": "Dow 30"
  },
  {
    "symbol": "CSCO",
-   "name": "Cisco Systems, Inc."
- },
- {
-   "symbol": "CVX",
-   "name": "Chevron Corporation"
- },
- {
-   "symbol": "DIS",
-   "name": "The Walt Disney Company"
- },
- {
-   "symbol": "DOW",
-   "name": "Dow Inc."
- },
- {
-   "symbol": "GS",
-   "name": "The Goldman Sachs Group, Inc."
- },
- {
-   "symbol": "HD",
-   "name": "The Home Depot, Inc."
- },
- {
-   "symbol": "IBM",
-   "name": "International Business Machines Corporation"
- },
- {
-   "symbol": "INTC",
-   "name": "Intel Corporation"
- },
- {
-   "symbol": "JNJ",
-   "name": "Johnson & Johnson"
- },
- {
-   "symbol": "JPM",
-   "name": "JPMorgan Chase & Co."
- },
- {
-   "symbol": "KO",
-   "name": "The Coca-Cola Company"
- },
- {
-   "symbol": "MCD",
-   "name": "McDonald's Corporation"
- },
- {
-   "symbol": "MMM",
-   "name": "3M Company"
- },
- {
-   "symbol": "MRK",
-   "name": "Merck & Co., Inc."
- },
- {
-   "symbol": "MSFT",
-   "name": "Microsoft Corporation"
- },
- {
-   "symbol": "NKE",
-   "name": "NIKE, Inc."
- },
- {
-   "symbol": "PFE",
-   "name": "Pfizer Inc."
- },
- {
-   "symbol": "PG",
-   "name": "The Procter & Gamble Company"
- },
- {
-   "symbol": "TRV",
-   "name": "The Travelers Companies, Inc."
- },
- {
-   "symbol": "UNH",
-   "name": "UnitedHealth Group Incorporated"
- },
- {
-   "symbol": "UTX",
-   "name": "United Technologies Corporation"
- },
- {
-   "symbol": "V",
-   "name": "Visa Inc."
- },
- {
-   "symbol": "VZ",
-   "name": "Verizon Communications Inc."
+   "name": "Cisco Systems, Inc.",
+   "index": "Dow 30"
  },
  {
    "symbol": "WBA",
-   "name": "Walgreens Boots Alliance, Inc."
+   "name": "Walgreens Boots Alliance, Inc.",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "PG",
+   "name": "The Procter & Gamble Company",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "MSFT",
+   "name": "Microsoft Corporation",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "AAPL",
+   "name": "Apple Inc.",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "UNH",
+   "name": "UnitedHealth Group Incorporated",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "CVX",
+   "name": "Chevron Corporation",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "KO",
+   "name": "The Coca-Cola Company",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "AXP",
+   "name": "American Express Company",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "HD",
+   "name": "The Home Depot, Inc.",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "V",
+   "name": "Visa Inc.",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "VZ",
+   "name": "Verizon Communications Inc.",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "UTX",
+   "name": "United Technologies Corporation",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "TRV",
+   "name": "The Travelers Companies, Inc.",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "CAT",
+   "name": "Caterpillar Inc.",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "IBM",
+   "name": "International Business Machines Corporation",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "MCD",
+   "name": "McDonald's Corporation",
+   "index": "Dow 30"
  },
  {
    "symbol": "WMT",
-   "name": "Walmart Inc."
+   "name": "Walmart Inc.",
+   "index": "Dow 30"
  },
  {
    "symbol": "XOM",
-   "name": "Exxon Mobil Corporation"
+   "name": "Exxon Mobil Corporation",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "DOW",
+   "name": "Dow Inc.",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "JPM",
+   "name": "JPMorgan Chase & Co.",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "GS",
+   "name": "The Goldman Sachs Group, Inc.",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "DIS",
+   "name": "The Walt Disney Company",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "INTC",
+   "name": "Intel Corporation",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "JNJ",
+   "name": "Johnson & Johnson",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "NKE",
+   "name": "NIKE, Inc.",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "BA",
+   "name": "The Boeing Company",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "MMM",
+   "name": "3M Company",
+   "index": "Dow 30"
+ },
+ {
+   "symbol": "PFE",
+   "name": "Pfizer Inc.",
+   "index": "Dow 30"
  }
 ]
 }
