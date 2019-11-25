@@ -1,5 +1,5 @@
 {
-  "symbols": [
+  "symbols": {
    "MRK": {
       "name": "Merck & Co., Inc.",
       "index": "Dow 30"
@@ -120,4 +120,4 @@
       "name": "Pfizer Inc.",
       "index": "Dow 30"
    }
-]}
+  }}
