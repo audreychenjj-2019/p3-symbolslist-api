@@ -1,5 +1,5 @@
 {
- "symbolslist": {
+ "symbolslist": [
    "AAPL": {
       "name": "Apple Inc."
    },
@@ -90,5 +90,5 @@
    "XOM": {
       "name": "Exxon Mobil Corporation"
    }
-}
+]
 }
