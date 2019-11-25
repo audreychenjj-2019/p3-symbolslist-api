@@ -1,124 +1,93 @@
 {
- "symbolslist": [
- {
-   "symbol": "MRK",
-   "name": "Merck & Co., Inc."
- },
- {
-   "symbol": "CSCO",
-   "name": "Cisco Systems, Inc."
- },
- {
-   "symbol": "WBA",
-   "name": "Walgreens Boots Alliance, Inc."
- },
- {
-   "symbol": "PG",
-   "name": "The Procter & Gamble Company"
- },
- {
-   "symbol": "MSFT",
-   "name": "Microsoft Corporation"
- },
- {
-   "symbol": "AAPL",
-   "name": "Apple Inc."
- },
- {
-   "symbol": "UNH",
-   "name": "UnitedHealth Group Incorporated"
- },
- {
-   "symbol": "CVX",
-   "name": "Chevron Corporation"
- },
- {
-   "symbol": "KO",
-   "name": "The Coca-Cola Company"
- },
- {
-   "symbol": "AXP",
-   "name": "American Express Company"
- },
- {
-   "symbol": "HD",
-   "name": "The Home Depot, Inc."
- },
- {
-   "symbol": "V",
-   "name": "Visa Inc."
- },
- {
-   "symbol": "VZ",
-   "name": "Verizon Communications Inc."
- },
- {
-   "symbol": "UTX",
-   "name": "United Technologies Corporation"
- },
- {
-   "symbol": "TRV",
-   "name": "The Travelers Companies, Inc."
- },
- {
-   "symbol": "CAT",
-   "name": "Caterpillar Inc."
- },
- {
-   "symbol": "IBM",
-   "name": "International Business Machines Corporation"
- },
- {
-   "symbol": "MCD",
-   "name": "McDonald's Corporation"
- },
- {
-   "symbol": "WMT",
-   "name": "Walmart Inc."
- },
- {
-   "symbol": "XOM",
-   "name": "Exxon Mobil Corporation"
- },
- {
-   "symbol": "DOW",
-   "name": "Dow Inc."
- },
- {
-   "symbol": "JPM",
-   "name": "JPMorgan Chase & Co."
- },
- {
-   "symbol": "GS",
-   "name": "The Goldman Sachs Group, Inc."
- },
- {
-   "symbol": "DIS",
-   "name": "The Walt Disney Company"
- },
- {
-   "symbol": "INTC",
-   "name": "Intel Corporation"
- },
- {
-   "symbol": "JNJ",
-   "name": "Johnson & Johnson"
- },
- {
-   "symbol": "NKE",
-   "name": "NIKE, Inc."
- },
- {
-   "symbol": "BA",
-   "name": "The Boeing Company"
- },
- {
-   "symbol": "MMM",
-   "name": "3M Company"
- },
- {
-   "symbol": "PFE",
-   "name": "Pfizer Inc."
- }
-]
+ "symbolslist": {
+   "AAPL": {
+      "name": "Apple Inc."
+   },
+   "AXP": {
+      "name": "American Express Company"
+   },
+   "BA": {
+      "name": "The Boeing Company"
+   },
+   "CAT": {
+      "name": "Caterpillar Inc."
+   },
+   "CSCO": {
+      "name": "Cisco Systems, Inc."
+   },
+   "CVX": {
+      "name": "Chevron Corporation"
+   },
+   "DIS": {
+      "name": "The Walt Disney Company"
+   },
+   "DOW": {
+      "name": "Dow Inc."
+   },
+   "GS": {
+      "name": "The Goldman Sachs Group, Inc."
+   },
+   "HD": {
+      "name": "The Home Depot, Inc."
+   },
+   "IBM": {
+      "name": "International Business Machines Corporation"
+   },
+   "INTC": {
+      "name": "Intel Corporation"
+   },
+   "JNJ": {
+      "name": "Johnson & Johnson"
+   },
+   "JPM": {
+      "name": "JPMorgan Chase & Co."
+   },
+   "KO": {
+      "name": "The Coca-Cola Company"
+   },
+   "MCD": {
+      "name": "McDonald's Corporation"
+   },
+   "MMM": {
+      "name": "3M Company"
+   },
+   "MRK": {
+      "name": "Merck & Co., Inc."
+   },
+   "MSFT": {
+      "name": "Microsoft Corporation"
+   },
+   "NKE": {
+      "name": "NIKE, Inc."
+   },
+   "PFE": {
+      "name": "Pfizer Inc."
+   },
+   "PG": {
+      "name": "The Procter & Gamble Company"
+   },
+   "TRV": {
+      "name": "The Travelers Companies, Inc."
+   },
+   "UNH": {
+      "name": "UnitedHealth Group Incorporated"
+   },
+   "UTX": {
+      "name": "United Technologies Corporation"
+   },
+   "V": {
+      "name": "Visa Inc."
+   },
+   "VZ": {
+      "name": "Verizon Communications Inc."
+   },
+   "WBA": {
+      "name": "Walgreens Boots Alliance, Inc."
+   },
+   "WMT": {
+      "name": "Walmart Inc."
+   },
+   "XOM": {
+      "name": "Exxon Mobil Corporation"
+   }
 }
