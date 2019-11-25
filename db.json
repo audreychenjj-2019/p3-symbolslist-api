@@ -1,4 +1,5 @@
-[
+{
+ "symbolslist": [
  {
    "symbol": "MRK",
    "name": "Merck & Co., Inc."
@@ -120,3 +121,4 @@
    "name": "Pfizer Inc."
  }
 ]
+}
